@@ -1,0 +1,9 @@
++ Hàm tách t?: words_seg(st)
+   Trong dó st là 1 câu c?n tách
++ D? li?u vào: trong t?p input.txt (mu?n tách câu nào thì gõ vào t?p này)
++ Thu m?c dataws_test ch?a các van b?n mà t? các t? s? du?c tách ra tr? thành t? di?n
++ T?p dictionary.txt ch?a các t? dã tách du?c t?o thành t? các t?p trong thu m?c dataws_test, t?p này ch?a các t? dã tách, các t? cách nhau 1 ký t? tr?ng
++ Trong tru?ng h?p có thêm các van b?n m?i thì copy vào thu m?c dataws_test r?i b? d?u # tru?c các dòng
+  #ws=words_seg_dictionary() (dòng 79)
+ #dictionary_write_out(ws)  (dòng 80)
+r?i ch?y l?i t?p WS.p
